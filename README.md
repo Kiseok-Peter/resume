@@ -8,7 +8,7 @@
 경력
 -
 ### Ecube Labs
-* 2013.11 ~ 
+* 2013.11 ~ 2019.10
 
 
  <br /> <br />
@@ -20,5 +20,5 @@
 - 회사 : Ecube Labs
 - 앱소개 : generator와 hauler를 실시간 bidding & matching
 - 개발 기술 : Swift, Mvvm, RxSwift,Code Base Auto Layout(Snapkit)
-- 담당 업무 : 설계, 개발
+- 담당 업무 : 개발
 - 앱스토어 : 스토어 등록 대기중
