@@ -10,8 +10,6 @@
 ### 바디스앤소울스
 * 2020.02 ~ 
 
-
--
 ### Ecube Labs
 * 2013.11 ~ 2019.10
 
@@ -21,10 +19,24 @@
 ### 회사 프로젝트
 ### iOS
 
+### Fittobe
+- 회사 : 바디스앤소울스
+- 앱소개 : 피트니스센터 고객용 예약&출석 앱
+- 개발 기술 : Swift, Mvvm, RxSwift, Texture, Snapkit, RxFlow, SwiftLint
+- 담당 업무 : 설계, 개발
+- 앱스토어 : https://apps.apple.com/kr/app/핏투비/id1431725845
+
+### Fittobe
+- 회사 : 바디스앤소울스
+- 앱소개 : 피트니스센터 코치용 수업관리&고객관리 앱
+- 개발 기술 : Swift, Mvvm, RxSwift, Texture, Snapkit, RxFlow, SwiftLint
+- 담당 업무 : 설계, 개발
+- 앱스토어 : https://apps.apple.com/kr/app/핏투비-코치/id1440701457
+
 ### HAULLA
 - 회사 : Ecube Labs
 - 앱소개 : generator와 hauler를 실시간 bidding & matching
-- 개발 기술 : Swift, Mvvm, RxSwift,Code Base Auto Layout(Snapkit)
+- 개발 기술 : Swift, Mvvm, RxSwift, Code Base Auto Layout(Snapkit), SwiftLint
 - 담당 업무 : 개발
 - 앱스토어 : 스토어 등록 대기중
 
@@ -61,10 +73,12 @@
  
 - Swift
 - RxSwift
+- RxFlow
 - Architecture Framework(MVVM, RxViewBinder)
 - Restful API Network(alamofire, moya)
 - image downloading and caching(SDWebImage, Kingfisher)
 - Autolayout(Storyboard & Code Base)
+- Texture
 - SnapKit
 - firebase
 - Fabric Crashlytics
