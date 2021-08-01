@@ -19,19 +19,23 @@
 ### 회사 프로젝트
 ### iOS
 
-### Fittobe
+### 핏투비
 - 회사 : 바디스앤소울스
 - 앱소개 : 피트니스센터 고객용 예약&출석 앱
-- 개발 기술 : Swift, Mvvm, RxSwift, Texture, Snapkit, RxFlow, SwiftLint
+- 개발 기술 : Swift, Mvvm, RxSwift, RxFlow, Texture, Snapkit, SwiftLint
 - 담당 업무 : 설계, 개발
 - 앱스토어 : https://apps.apple.com/kr/app/핏투비/id1431725845
 
-### Fittobe
+<img src="images/바디스앤소울스/핏투비/screenshot_1.png" width="160"/> <img src="images/바디스앤소울스/핏투비/screenshot_2.png" width="160"/> <img src="images/바디스앤소울스/핏투비/screenshot_3.png" width="160"/> <img src="images/바디스앤소울스/핏투비/screenshot_4.png" width="160"/> <img src="images/바디스앤소울스/핏투비/screenshot_5.png" width="160"/> <img src="images/바디스앤소울스/핏투비/screenshot_6.png" width="160"/>
+
+### 핏투비 코치
 - 회사 : 바디스앤소울스
 - 앱소개 : 피트니스센터 코치용 수업관리&고객관리 앱
-- 개발 기술 : Swift, Mvvm, RxSwift, Texture, Snapkit, RxFlow, SwiftLint
+- 개발 기술 : Swift, Mvvm, RxSwift, RxFlow, Texture, Snapkit, SwiftLint
 - 담당 업무 : 설계, 개발
 - 앱스토어 : https://apps.apple.com/kr/app/핏투비-코치/id1440701457
+
+<img src="images/바디스앤소울스/핏투비코치/screenshot_1.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_2.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_3.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_4.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_5.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_6.png" width="160"/>
 
 ### HAULLA
 - 회사 : Ecube Labs
