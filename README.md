@@ -78,7 +78,7 @@
 - Swift
 - RxSwift
 - RxFlow
-- Architecture Framework(MVVM, RxViewBinder)
+- Architecture Framework(MVVM, ReactorKit, RxViewBinder)
 - Restful API Network(alamofire, moya)
 - image downloading and caching(SDWebImage, Kingfisher)
 - Autolayout(Storyboard & Code Base)
