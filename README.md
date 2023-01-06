@@ -2,11 +2,14 @@
 
 - iOS Developer
 - Mail : <gkfnrkfl@naver.com>  
-- github : https://github.com/gkfnrkfl7
+- github : https://github.com/Kiseok-Peter
  <br /> <br />
  
 경력
 -
+### 띵스플로우
+* 2020.02 ~ 2021.10
+
 ### 바디스앤소울스
 * 2020.02 ~ 2021.10
 
@@ -18,6 +21,13 @@
  
 ### 회사 프로젝트
 ### iOS
+
+### 헬로우봇
+- 회사: 띵스플로우
+- 앱소개 : AI 대화형 사주, 타로 앱
+- 개발 기술 : Swift, Mvvm, RxSwift, Snapkit, SwiftLint, XcodeGen, FastLane
+- 담당 업무 : 리팩토링, 개발, 유지보수
+- 앱스토어 : https://apps.apple.com/kr/app/헬로우봇-2023-신년운세-사주-타로-ai/id1294957719
 
 ### 핏투비
 - 회사 : 바디스앤소울스
@@ -77,18 +87,12 @@
  
 - Swift
 - RxSwift
-- RxFlow
 - Architecture Framework(MVVM, ReactorKit, RxViewBinder)
 - Restful API Network(alamofire, moya)
-- image downloading and caching(SDWebImage, Kingfisher)
-- Autolayout(Storyboard & Code Base)
-- Texture
-- SnapKit
-- firebase
-- Fabric Crashlytics
-- naver SDK(map, login)
-- kakao SDK(login)
-- google SDK(map)
-- facebook SDK(login)
-- baidu SDK(map)
-- mapbox SDK(map, navi)
+- Image downloading and caching(SDWebImage, Kingfisher)
+- Autolayout: Storyboard & CodeBase(SnapKit, Texture)
+- Firebase Crashlytics
+- SNS Login SDK(naver, kakao, facebook, line, twitter)
+- Map SDK (naver, google, baidu, mapbox)
+- Coordinator pattern & RxFlow
+- XcodeGen
