@@ -39,13 +39,15 @@
 - 개발 기술 : Swift, MVVM, RxSwift, Snapkit
 - 담당 업무 : 지원으로 신규 피쳐 개발
 - 작업 내용 :
-  1. 메인탭 내에 웹소설, 스토리 탭 비슷한 동작에 화면을 공통모듈을 이용한 리팩토링을 하며 해당 앱내에서 재사용 가능하게 개발 (추후 앱 홈탭 개편 시 사용 예정)
+  1. 메인탭 내에 웹소설, 스토리 탭 비슷한 동작에 화면을 공통모듈을 이용한 리팩토링을 하며 해당 앱내에서 재사용 가능하게 개발
+     - 앱 홈탭도 개편 예정으로 함께 사용할수 있도록 개발
  
 ### 공통
-1. 공용 Coordinator 패턴을 다른 프로젝트에서 함께 사용 할수 있도록 모듈로 제작
-2. GitHub Action으로 Release, Hotfix 브랜치 생성 시 옵션으로 버전 자동 변경 하도록 기능 수정
-3. 기존 공통모듈 통신에 MultiPart Upload 기능 추가
-4. 공통 모듈에 다국어 관련 처리 기능 추가
+- 공용 Coordinator 패턴을 다른 프로젝트에서 함께 사용 할수 있도록 모듈로 제작
+-  GitHub Action으로 Release, Hotfix 브랜치 생성 시 옵션으로 버전 자동 변경 하도록 기능 수정
+-  기존 공통모듈 통신에 MultiPart Upload 기능 추가
+-  공통 모듈에 다국어 관련 처리 기능 추가
+
 
 ## 바디스앤소울스
 ### 핏투비
@@ -65,6 +67,7 @@
 - 앱스토어 : https://apps.apple.com/kr/app/핏투비-코치/id1440701457
 
 <img src="images/바디스앤소울스/핏투비코치/screenshot_1.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_2.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_3.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_4.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_5.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_6.png" width="160"/>
+
 
 ## 이큐브랩
 ### HAULLA
