@@ -29,7 +29,9 @@
 - 작업 내용 :
   1. 신규 기능 피쳐 개발
   2. 기존 Storyboard, MVC에서 새로 RxSwift, MVVM 및 회사 공통모듈로 리팩토링 개선 작업 진행.
-  3. GithubAction을 활용한 PR시 테스트 자동화 및 결과 슬랙 전달 추가
+  3. GitHub Action을 활용한 PR시 테스트 자동화 및 결과 슬랙 전달 추가
+  4. 개발, 운용 빌드에 스테이징 빌드 XcodeGen, XCConfig를 이용한 스킴 추가 및 FastLane, GitHub Action 빌드 옵션 추가 작업
+  5. 기존 일반 화면 호출 형식에서 Coordinator 패턴으로 변경 작업(40% 진행 완료)
 
 ### 스토리플레이
 - 앱소개 : AI 대화형
@@ -40,6 +42,10 @@
   1. 메인탭 내에 웹소설, 스토리 탭 비슷한 동작에 화면을 공통모듈을 이용한 리팩토링을 하며 해당 앱내에서 재사용 가능하게 개발 (추후 앱 홈탭 개편 시 사용 예정)
  
 ### 공통
+1. 공용 Coordinator 패턴을 다른 프로젝트에서 함께 사용 할수 있도록 모듈로 제작
+2. GitHub Action으로 Release, Hotfix 브랜치 생성 시 옵션으로 버전 자동 변경 하도록 기능 수정
+3. 기존 공통모듈 통신에 MultiPart Upload 기능 추가
+4. 공통 모듈에 다국어 관련 처리 기능 추가
 
 ## 바디스앤소울스
 ### 핏투비
@@ -108,4 +114,4 @@
 - Firebase Crashlytics
 - Coordinator pattern & RxFlow
 - XcodeGen
-- Github Action
+- GitHub Action
