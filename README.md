@@ -19,20 +19,33 @@
 
  <br /> <br />
  
-### 회사 프로젝트
-### iOS
+## 띵스플로우
 
 ### 헬로우봇
-- 회사: 띵스플로우
 - 앱소개 : AI 대화형 사주, 타로 앱
-- 개발 기술 : Swift, Mvvm, RxSwift, Snapkit, SwiftLint, XcodeGen, FastLane
-- 담당 업무 : 리팩토링, 개발, 유지보수
 - 앱스토어 : https://apps.apple.com/kr/app/헬로우봇-2023-신년운세-사주-타로-ai/id1294957719
+- 개발 기술 : Swift, MVVM, RxSwift, Snapkit, SwiftLint, XcodeGen, FastLane
+- 담당 업무 : 리팩토링, 신규 피쳐 개발, 유지보수
+- 작업 내용 :
+  1. 신규 기능 피쳐 개발
+  2. 기존 Storyboard, MVC에서 새로 RxSwift, MVVM 및 회사 공통모듈로 리팩토링 개선 작업 진행.
+  3. GithubAction을 활용한 PR시 테스트 자동화 및 결과 슬랙 전달 추가
 
+### 스토리플레이
+- 앱소개 : AI 대화형
+- 앱스토어 : 
+- 개발 기술 : Swift, MVVM, RxSwift, Snapkit
+- 담당 업무 : 지원으로 신규 피쳐 개발
+- 작업 내용 :
+  1. 메인탭 내에 웹소설, 스토리 탭 비슷한 동작에 화면을 공통모듈을 이용한 리팩토링을 하며 해당 앱내에서 재사용 가능하게 개발 (추후 앱 홈탭 개편 시 사용 예정)
+ 
+### 공통
+
+## 바디스앤소울스
 ### 핏투비
 - 회사 : 바디스앤소울스
 - 앱소개 : 피트니스센터 고객용 예약&출석 앱
-- 개발 기술 : Swift, Mvvm, RxSwift, RxFlow, Texture, Snapkit, SwiftLint
+- 개발 기술 : Swift, MVVM, RxSwift, RxFlow, Texture, Snapkit, SwiftLint
 - 담당 업무 : 설계, 개발
 - 앱스토어 : https://apps.apple.com/kr/app/핏투비/id1431725845
 
@@ -41,16 +54,17 @@
 ### 핏투비 코치
 - 회사 : 바디스앤소울스
 - 앱소개 : 피트니스센터 코치용 수업관리&고객관리 앱
-- 개발 기술 : Swift, Mvvm, RxSwift, RxFlow, Texture, Snapkit, SwiftLint
+- 개발 기술 : Swift, MVVM, RxSwift, RxFlow, Texture, Snapkit, SwiftLint
 - 담당 업무 : 설계, 개발
 - 앱스토어 : https://apps.apple.com/kr/app/핏투비-코치/id1440701457
 
 <img src="images/바디스앤소울스/핏투비코치/screenshot_1.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_2.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_3.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_4.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_5.png" width="160"/> <img src="images/바디스앤소울스/핏투비코치/screenshot_6.png" width="160"/>
 
+## 이큐브랩
 ### HAULLA
 - 회사 : Ecube Labs
 - 앱소개 : generator와 hauler를 실시간 bidding & matching
-- 개발 기술 : Swift, Mvvm, RxSwift, Code Base Auto Layout(Snapkit), SwiftLint
+- 개발 기술 : Swift, MVVM, RxSwift, Code Base Auto Layout(Snapkit), SwiftLint
 - 담당 업무 : 개발
 - 앱스토어 : 스토어 등록 대기중
 
@@ -92,7 +106,6 @@
 - Image downloading and caching(SDWebImage, Kingfisher)
 - Autolayout: Storyboard & CodeBase(SnapKit, Texture)
 - Firebase Crashlytics
-- SNS Login SDK(naver, kakao, facebook, line, twitter)
-- Map SDK (naver, google, baidu, mapbox)
 - Coordinator pattern & RxFlow
 - XcodeGen
+- Github Action
