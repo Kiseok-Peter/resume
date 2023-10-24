@@ -3,6 +3,7 @@
 - iOS Developer
 - Mail : <gkfnrkfl@naver.com>  
 - github : https://github.com/Kiseok-Peter
+- Notion : https://www.notion.so/iOS-eef581216c244503a92ea2a452e49db5
  <br /> <br />
  
 경력
